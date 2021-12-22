@@ -1,0 +1,36 @@
+*
+body {
+    background-color: aliceblue;
+    background-image: url(images/unichen.png);
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+}
+
+h1{
+    font-family: "Rock 3D", sans;
+    color:crimson ;
+
+}
+
+h2{
+    font-family: "Moo Lah Lah", sans;
+    color:rgb(247, 247, 247); 
+    -webkit-text-stroke:0.0001px rgb(6, 32, 18);
+}
+
+h3 {
+    font-family: "Shadows Into Light", sans;
+}
+
+h4 {
+    font-family: "Indie Flower", sans;
+    font-size: 30px;
+}
+
+p1 {
+    font-family:"Ole", sans;
+    color: aqua;
+    font-size: 30px;
+}
